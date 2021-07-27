@@ -1,5 +1,7 @@
 # LeagueofLegendsChallangerList
 리그오브레전드 챌린저 리스트 
+<img width="1130" alt="스크린샷 2021-07-28 오전 12 08 51" src="https://user-images.githubusercontent.com/69393030/127179184-94eae6a4-52a0-4ca2-b4a5-3508686f11f8.png">
+
 # 설명
 <img width="1026" alt="스크린샷 2021-07-27 오후 11 58 47" src="https://user-images.githubusercontent.com/69393030/127177486-20993bf6-bad6-40a3-aeff-154af5252206.png">
 해당 api 는 챌린저 랭크 티어의 유저 리스트를 가져옵니다.
@@ -34,4 +36,4 @@ Que Type (게임타입) 에따른 챌린저 리스트를 return 해줍니다.
 
 # features
   페이징기능 
- 
+
